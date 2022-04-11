@@ -1,0 +1,29 @@
+h1{
+  color: #ECB365;
+  font-size: 3rem;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.counter-app{
+  width: 50%;
+  background-color: #04293A;
+  text-align: center;
+  margin: 100px auto;
+  padding: 20px;
+}
+.counter-app .counter-head input{
+  background-color: #064663;
+  padding: 10px 30px;
+  color: #ECB365;
+  border: 2px solid #ECB365;
+  font-size: 2rem;
+  text-align: center;
+}
+.counter-body button{
+  padding: 10px 40px;
+  margin: 20px 0px;
+  background-color: #ECB365;
+  border: 2px solid #064663;
+  font-size: 1rem;
+  color: #fff;
+  cursor: pointer;
+}
